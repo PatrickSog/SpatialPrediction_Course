@@ -1,6 +1,6 @@
 # Author: Patrick Sogno
 # E-mail: patrick.sogno@stud-mail.uni-wuerzburg.de
-# Date: May 2019
+# Date: 08 May 2019
 # RStudio version: 1.1.456
 # R version: 3.5.1
 
